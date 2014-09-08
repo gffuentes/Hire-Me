@@ -3,7 +3,7 @@
 
 1. Sign-up for a GitHub account
 
-2. Get Git working locally on your computer (do not install the Windows or Mac GitHub client. Do strictly through the Command Line or Terminal)
+2. Get Git working locally on your computer (Do not install the Windows or Mac GitHub client. Also, do not just upload directly to the website. We want you to try pushing straight from the Terminal/Command Line)
 
 3. Create a repository using your new GitHub account with whatever name you would like - be creative!
 
